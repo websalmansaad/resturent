@@ -1,0 +1,320 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+  /* navigation css start */
+  .nav_social {
+    display: none;
+  }
+
+  .navbar-nav .nav-item.active .nav-link,
+  .navbar-nav .nav-item:hover .nav-link {
+    color: #fff;
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .navbar-nav .nav-item:hover {
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    padding-top: 0px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  /* navigation css end */
+
+  /* hero responsive start */
+  .hero_content h1 {
+    font-size: 40px;
+  }
+
+  .hero_content a.btn-outline-light {
+    margin-bottom: 20px;
+  }
+
+  /* hero responsive end */
+
+  /* about responsive start */
+  .about_img_1 img {
+    margin-bottom: 50px;
+  }
+
+  .about_img_2 {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+
+  .about_content h4 {
+    margin-top: 80px;
+    font-size: 30px;
+  }
+
+  /* about responsive end */
+
+  /* ingredients responsive start */
+  .ingr_card h4 {
+    font-size: 22px;
+  }
+
+  .ingr_card {
+    padding: 50px 20px;
+  }
+
+  .ingr_card p {
+    font-size: 14px;
+  }
+
+  /* ingredients responsive end */
+
+  /* menu responsive start */
+  /* menu responsive end */
+
+  /* review responsive start */
+  .review_para p {
+    font-size: 15px;
+  }
+
+  .review_card {
+    padding: 0px 20px;
+  }
+
+  .review_para img {
+    left: -3px;
+  }
+
+  /* review responsive end */
+
+  /* reservation responsive start */
+  .reser_images {
+    display: none;
+  }
+
+
+  /* reservation responsive end */
+
+  /* footer responsive start */
+  /* footer responsive end */
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  /* navigation css start */
+  .navbar-nav .nav-item.active .nav-link,
+  .navbar-nav .nav-item:hover .nav-link {
+    color: #fff;
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .navbar-nav .nav-item:hover {
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    padding-top: 0px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .nav_social {
+    display: none;
+  }
+
+  /* navigation css end */
+
+  /* hero responsive start */
+  .hero_content h1 {
+    font-size: 45px;
+  }
+
+  .about_img_2 {
+    margin-top: 0px;
+  }
+
+  /* hero responsive end */
+
+  /* about responsive start */
+  /* about responsive end */
+
+  /* ingredients responsive start */
+  /* ingredients responsive end */
+
+  /* menu responsive start */
+  /* menu responsive end */
+
+  /* review responsive start */
+  /* review responsive end */
+
+  /* reservation responsive start */
+  .reser_images {
+    display: none;
+  }
+
+  /* reservation responsive end */
+
+  /* footer responsive start */
+  /* footer responsive end */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  /* navigation css start */
+  .navbar-nav .nav-item.active .nav-link,
+  .navbar-nav .nav-item:hover .nav-link {
+    color: #fff;
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .navbar-nav .nav-item:hover {
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    padding-top: 0px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    margin-top: 10px;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .nav_social {
+    display: none;
+  }
+
+  /* navigation css end */
+
+  /* hero responsive start */
+  .hero_content h1 {
+    font-size: 62px;
+  }
+
+  /* hero responsive end */
+
+  /* about responsive start */
+  .about_content>p:nth-child(3) {
+    padding: 0px 22px;
+  }
+
+  .about_img_1 img {
+    margin-bottom: 50px;
+  }
+
+  .about_img_2 {
+    margin-bottom: 100px;
+  }
+
+  /* about responsive end */
+
+  /* ingredients responsive start */
+  /* ingredients responsive end */
+
+  /* menu responsive start */
+  /* menu responsive end */
+
+  /* review responsive start */
+  /* review responsive end */
+
+  /* reservation responsive start */
+  .reservation_content>h4:nth-child(1) {
+    margin-top: 50px;
+  }
+
+  .reser_form {
+    padding: 25px 80px 0px;
+  }
+
+  .form_button button {
+    margin-top: 25px;
+  }
+
+  /* reservation responsive end */
+
+  /* footer responsive start */
+  /* footer responsive end */
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* navigation responsive start */
+  /* navigation responsive end */
+
+  /* hero responsive start */
+  /* hero responsive end */
+
+  /* about responsive start */
+  /* about responsive end */
+
+  /* ingredients responsive start */
+  /* ingredients responsive end */
+
+  /* menu responsive start */
+  /* menu responsive end */
+
+  /* review responsive start */
+  /* review responsive end */
+
+  /* reservation responsive start */
+  .reser_images {
+    margin-top: 50px;
+  }
+
+  /* reservation responsive end */
+
+  /* footer responsive start */
+  /* footer responsive end */
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  /* navigation responsive start */
+  /* navigation responsive end */
+
+  /* hero responsive start */
+  /* hero responsive end */
+
+  /* about responsive start */
+  /* about responsive end */
+
+  /* ingredients responsive start */
+  /* ingredients responsive end */
+
+  /* menu responsive start */
+  /* menu responsive end */
+
+  /* review responsive start */
+  /* review responsive end */
+
+  /* reservation responsive start */
+  /* reservation responsive end */
+
+  /* footer responsive start */
+  /* footer responsive end */
+
+}
